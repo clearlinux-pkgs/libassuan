@@ -2,15 +2,7 @@ Configure miss: funopen
 Configure miss: funopen
 Configure miss: struct sockpeercred.pid
 Configure miss: struct sockpeercred.pid
-Configure miss: sys/ucred.h presence
-Configure miss: sys/ucred.h presence
-Configure miss: sys/ucred.h usability
-Configure miss: sys/ucred.h usability
 Configure miss: ucred.h
 Configure miss: ucred.h
-Configure miss: ucred.h presence
-Configure miss: ucred.h presence
-Configure miss: ucred.h usability
-Configure miss: ucred.h usability
 Configure miss: windres
 Configure miss: windres
